@@ -6,7 +6,7 @@ This Repository demonstrate the flow of solving real world challenge using data 
 
 The datasets provided by Sendy includes dispatch details and rider metrics based on orders made via the Sendy platform. The question is to predict whether a Partner will accept, reject or ignore an order that has been dispatched to them. A Partner will receive an order through the phone application and has a few seconds to accept the order. Alternatively, the Partner can actively reject the order. If the Partner doesn’t take an action we consider the order ignored. After a few seconds, Sendy will dispatch the order to the next available Partner.
 
-##PART A: FRAMING A DATA SCIENCE PROBLEM
+##PART A: FRAMING THE PROBLEM
 
 The objective was about to create the machine learning Model to predict whether a rider will **accept**, **decline** or **ignore** an order sent to them.
 Here Sendy company interested to know a specific reaction of a given rider depending on the order requests.
