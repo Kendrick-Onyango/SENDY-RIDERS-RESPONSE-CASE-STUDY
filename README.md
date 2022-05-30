@@ -40,10 +40,10 @@ After problem and hypothesis framing, the next task was EDA with the dataset giv
 
 Also I did Bivariate & multivariate Analysis on the features to understand the distribution and correlations.
 
-The EDA work and observations can be found in this detailed and separate [notebook]()
+The EDA work and observations can be found in this detailed and separate Notebook attached Main Files
 
 
-## PART C: FEATURE ENGINEERING
+## PART C: DATA WRANGLING
 
 After EDA, I understood the data better and the next step was feature engineering. This involved taking a deeper dive into the data and generating new features that would better predict the reaction of the rider on a particular order.
 
@@ -51,7 +51,7 @@ Here i generated `hours` per order to complete,`distances` and `rating factors`
 
 Also some distribution analysis on the generated features using histogram plots.
 
-Work relating to this task can be found in this [notebook]()
+Work relating to this task can be found in the separate Notebook attached Main Files
 
 
 ## PART D: MODEL BUILDING AND EVALUATION
@@ -62,7 +62,7 @@ I ended up with catboost , perfoms better when categorical features are not ecod
 
 Evaluation metrics used are accuracy and confusion matrix
 
-The notebook to the task can be found [here]().
+The notebook to the task can be found in the separate Notebook attached Main Files.
 
 
 ## REPORTING, INSIGHTS AND RECOMMENDATION
